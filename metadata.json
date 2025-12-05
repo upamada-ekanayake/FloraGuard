@@ -1,0 +1,5 @@
+{
+  "name": "FloraGuard: AI Plant Doctor",
+  "description": "An AI-powered botanist that analyzes images of plant leaves to diagnose diseases, suggest organic treatments, and provide prevention tips for home gardeners.",
+  "requestFramePermissions": []
+}
